@@ -1,2 +1,4 @@
 Just some random lines
+Line added in the release
 Line added in the main branch
+
